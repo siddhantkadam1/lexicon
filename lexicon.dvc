@@ -1,0 +1,5 @@
+outs:
+- md5: 3beb8d3bceb7dad769bec1d54d9efabf.dir
+  size: 20453
+  nfiles: 13
+  path: lexicon
